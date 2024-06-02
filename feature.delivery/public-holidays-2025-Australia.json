@@ -1,0 +1,93 @@
+{
+  "product": "Australia Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebrate the start of the new year with this public holiday."
+    },
+    {
+      "title": "Australia Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-26T12:00:00",
+      "endDate": "2025-01-26T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2025",
+      "style": "green",
+      "description": "Celebrate the national day of Australia with this public holiday."
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-10T12:00:00",
+      "endDate": "2025-04-10T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2025",
+      "style": "purple",
+      "description": "Observance of Good Friday, a Christian holiday marking the crucifixion of Jesus."
+    },
+    {
+      "title": "Easter Monday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-13T12:00:00",
+      "endDate": "2025-04-13T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2025",
+      "style": "pink",
+      "description": "Public holiday following Easter Sunday, commemorating the resurrection of Jesus."
+    },
+    {
+      "title": "Anzac Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-25T12:00:00",
+      "endDate": "2025-04-25T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2025",
+      "style": "red",
+      "description": "Commemoration of Australian and New Zealand Army Corps who served and died in wars."
+    },
+    {
+      "title": "Queen's Birthday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-06-09T12:00:00",
+      "endDate": "2025-06-09T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2025",
+      "style": "teal",
+      "description": "Celebration of the birthday of the reigning monarch of Australia."
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2025",
+      "style": "yellow",
+      "description": "Celebration of the birth of Jesus, a significant cultural and religious holiday."
+    },
+    {
+      "title": "Boxing Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-26T12:00:00",
+      "endDate": "2025-12-26T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2025",
+      "style": "amber",
+      "description": "Traditional post-Christmas holiday with various cultural and sporting events."
+    }
+  ]
+}
